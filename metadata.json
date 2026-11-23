@@ -1,0 +1,8 @@
+{
+  "name": "Muzeycha.uz — 3D Virtual Muzey",
+  "description": "Rasmlaringiz va videolaringizdan shaxsiy 3D virtual muzey yarating, ichida yurib tomosha qiling va yaqinlaringizga havola yoki yurakcha QR kod bilan ulashing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
